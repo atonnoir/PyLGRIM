@@ -20,8 +20,6 @@ import utils
 
 from time import sleep
 
-# 1:9.815440124573982, 2:0.38162052064662444 (o1)
-# 1:0.12435048946759508, 2:0.01788009782083559 (o2)
     
     
 print("Start of the program:")    
